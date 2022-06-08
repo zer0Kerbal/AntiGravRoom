@@ -146,7 +146,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AntiGravRoom/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/AntiGravRoom/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "AntiGravRoom Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/ "AntiGravRoom Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/AntiGravRoom/issues "Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/AntiGravRoom/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/AntiGravRoom/Notices "GitHub Pages"
@@ -206,7 +206,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [LAL]: https://github.com/zer0Kerbal/LunaticAeronauticsLtd "Lunatic Aeronautics Ltd (LA/L)"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "Lunatic Aeronautics K-MAS"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Rover Anti Gravity System"
-[LAAGR]: https://github.com/zer0Kerbal/AntiGravRoom "Lunatic Aeronautics Anti Grav Room"
+[LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/  "Anti Grav Room"
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
