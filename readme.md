@@ -54,6 +54,9 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 [![Kerbal Space Program: Holy Floaty Rovers!](https://img.youtube.com/vi/v6XxcuiLaAY/0.jpg)](https://www.youtube.com/watch?v=v6XxcuiLaAY)
 
+Space Scumbag
+https://forum.kerbalspaceprogram.com/index.php?/profile/70411-space-scumbag/
+https://youtu.be/Mi7-_GNVEn0
 ### Help Wanted
 
 > * [MAS][MAS] [RPM][RPM] prop/patch
