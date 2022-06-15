@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFBFECEC-4026-41FC-BFCF-CFCA4A136E1A}</ProjectGuid>
+    <ProjectGuid>{b0dee339-0212-4db6-9160-d7c70adc31e1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>RoverAntiGravitySystem</AssemblyName>
+    <AssemblyName>AntiGravRoom</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -19,7 +19,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <!-- <OutputPath>bin\Debug\</OutputPath> -->
-    <OutputPath>..\GameData\LunaticAeronautics\RoverAntiGravitySystem\Plugins\</OutputPath>
+    <OutputPath>..\GameData\LunaticAeronautics\AntiGravRoom\Plugins\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -30,7 +30,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>embedded</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\GameData\LunaticAeronautics\RoverAntiGravitySystem\Plugins\</OutputPath>
+    <OutputPath>..\GameData\LunaticAeronautics\AntiGravRoom\Plugins\</OutputPath>
     <!-- <DebugSymbols>true</DebugSymbols> -->
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
