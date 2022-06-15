@@ -7,10 +7,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Lunatic Aeronautics Anti Grav Room")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Provides Variable Gravity for Kerbal Space Program.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Lunatic Aeronautics")]
-[assembly: AssemblyProduct("Anti Grav Room(AGR)")]
+[assembly: AssemblyProduct("Anti Grav Room (AGR)")]
 [assembly: AssemblyCopyright("© 2015 ximrm and Tuareg, © 2021,2022 zer0Kerbal")]
 [assembly: AssemblyTrademark("™ 2015 ximrm and Tuareg, ™ 2021,2022 zer0Kerbal")]
 [assembly: AssemblyCulture("")]
