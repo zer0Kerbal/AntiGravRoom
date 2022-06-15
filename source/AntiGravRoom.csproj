@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{b0dee339-0212-4db6-9160-d7c70adc31e1}</ProjectGuid>
+    <ProjectGuid>{B0DEE339-0212-4DB6-9160-D7C70ADC31E1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
     <AssemblyName>AntiGravRoom</AssemblyName>
