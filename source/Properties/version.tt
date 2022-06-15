@@ -107,7 +107,7 @@ using System.Reflection;
 
 [assembly: AssemblyFileVersion("<#= major #>.<#= minor #>.<#= patch #>.<#= revisionNumber #>")]
 [assembly: AssemblyVersion("<#= major #>.<#= minor #>.<#= patch #>.<#= build #>")]
-[assembly: AssemblyInformationalVersion("<#= major #>.<#= minor #>.<#= patch #>")]
+[assembly: AssemblyInformationalVersion("<#= major #>.<#= minor #>.<#= patch #>.<#= revisionNumber #>")]
 [assembly: KSPAssembly("<#= PROJECT_NAME #>", <#= major #>,<#= minor #>)]
 
 namespace <#= PROJECT_NAME #>
