@@ -1,14 +1,15 @@
 # Changelog  
   
-| modName    | Anti Grav Room (AGR)                                                |
-| ---------- | ------------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                     |
-| author     | ximrm, Tuareg and zer0Kerbal                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RoverAntiGravitySystem)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RoverAntiGravitySystem) |
-| spacedock  | (https://spacedock.info/mod/)                                       |
-| ckan       | RoverAntiGravitySystem                                              |
+| modName    | Anti Grav Room (AGR)                                              |
+| ---------- | ----------------------------------------------------------------- |
+| license    | CC-BY-NC-SA-4.0                                                   |
+| author     | ximrm, Tuareg and zer0Kerbal                                      |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AntiGravRoom)           |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AntiGravRoom)         |
+| spacedock  | (https://spacedock.info/mod/)                                     |
+| ckan       | AntiGravRoom                                                      |
+
 
 ## Version 1.2.99.0-adoption `<EDITION>` edition
 
@@ -65,7 +66,7 @@
 
 ---
 
-## Version 1.2.5.0-release
+## Version 1.2.8.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.11.x
@@ -81,7 +82,7 @@
 
 ---
 
-## Version 1.2.4.0-release
+## Version 1.2.7.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.10.x
@@ -97,7 +98,7 @@
 
 ---
 
-## Version 1.2.3.0-release
+## Version 1.2.6.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.9.x
@@ -113,7 +114,7 @@
 
 ---
 
-## Version 1.2.2.0-release
+## Version 1.2.5.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.8.x
@@ -129,7 +130,7 @@
 
 ---
 
-## Version 1.2.1.0-release
+## Version 1.2.4.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.7.x
@@ -145,7 +146,7 @@
 
 ---
 
-## Version 1.2.0.0-release
+## Version 1.2.3.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.6.x
@@ -161,7 +162,7 @@
 
 ---
 
-## Version 1.1.9.0-release
+## Version 1.2.2.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.5.x
@@ -177,7 +178,7 @@
 
 ---
 
-## Version 1.1.8.0-release
+## Version 1.2.1.0-release
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.4.x
@@ -193,7 +194,7 @@
 
 ---
 
-## Version 1.1.7.5-release - `<Away With Words>` edition
+## Version 1.2.0.0-release - `<Away With Words>` edition
 
 * 7 Jun, 2022
 * Released for Kerbal Space Program 1.3.x
