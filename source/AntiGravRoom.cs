@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using UnityEngine;
 
-namespace antigravity
+namespace AntiGravRoom
 {
-    public class AntigravityRoom : PartModule
+    public class AntiGravRoom : PartModule
     {
         [KSPField(isPersistant = true)]
         public float size = 2.5f;
