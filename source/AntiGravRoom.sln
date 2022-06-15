@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverAntiGravitySystem", "RoverAntiGravitySystem.csproj", "{AFBFECEC-4026-41FC-BFCF-CFCA4A136E1A}"
+Project("{f54734e8-6120-44d4-8d98-b1d12e0fb89c}") = "AntiGravRoom", "AntiGravRoom.csproj", "{b0dee339-0212-4db6-9160-d7c70adc31e1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
