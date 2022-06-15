@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Anti Grav Room (AGR)                                    |
+| modName    | Anti Grav Room (AGR)                                                |
 | ---------- | ------------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                     |
 | author     | ximrm, Tuareg and zer0Kerbal                                        |
@@ -375,6 +375,7 @@
   * updates #26 - Previous Releases
   * closes #31 - 1.1.4.0.release
 
+--------
 ---
 
 ## Version 1.1.2.0-release
@@ -462,7 +463,7 @@
 * by ximrm and Tuareg
 
 * Initial release
-* [RoverAntiGravitySystem.dll] v1.0.0.32
+* [AntiGravRoom.dll] v1.0.0.10
 
 ### Status
 
