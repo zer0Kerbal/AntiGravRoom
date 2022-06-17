@@ -32,12 +32,16 @@ CC BY-ND 4.0 by zer0Kerbal
 * Initial release
 * [AntiGravRoom.dll] v1.0.0.10
 * Recompiled by zer0Kerbal
-* Slight updates to bring to modern standards
+* Slight updates to bring up to modern standards
+* [room.cfg]
+  * Rename
+    * part to 
+    * MODULE from [AntiGravityRoom] to [AntiGravRoom]
 
 ### Status
 
 * Issues
   * updates #25 - Previous Releases
-  * closes #26 - 1.0.0.0
+  * closes #26 - 1.0.0.0-release
 
 ---
