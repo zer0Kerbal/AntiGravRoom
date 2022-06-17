@@ -184,7 +184,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 <!-- links to add-ons/mods -->  
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
-[LAL]: https://github.com/zer0Kerbal/LunaticAeronauticsLtd "Lunatic Aeronautics Ltd (LA/L)"
+[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "Lunatic Aeronautics K-MAS"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Rover Anti Gravity System"
 [LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/  "Anti Grav Room"
