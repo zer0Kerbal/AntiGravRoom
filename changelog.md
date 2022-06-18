@@ -22,7 +22,7 @@
 * Slight updates to bring up to modern standards
 * [room.cfg]
   * Rename
-    * part to 
+    * part to [antigravroom]
     * MODULE from [AntiGravityRoom] to [AntiGravRoom]
 
 ### Status
