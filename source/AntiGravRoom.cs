@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
-using KSP;
-using UnityEngine.Rendering;
+//using KSP;
+//using UnityEngine.Rendering;
 
 namespace AntiGravRoom
 {
-    public class AntiGravRoom : PartModule
+    public class AntiGravityRoom : PartModule
     {
         [KSPField(isPersistant = true)]
         public float size = 2.5f;
@@ -65,7 +65,7 @@ namespace AntiGravRoom
         public static int selectedCelestial = 0;
 
         [KSPField(isPersistant = true)]
-        public static double Consumption = 0.5;
+        public static double Consumption = 0.5d;
 
         public string[] Celestials = new string[16];
         public float[] Gravities = new float[16];
@@ -165,20 +165,11 @@ namespace AntiGravRoom
             }
         }
 
-        public override void OnAwake()
-        {
-            base.OnAwake();
-        }
+        public override void OnAwake() { base.OnAwake(); }
 
-        public override void OnInactive()
-        {
-            base.OnInactive();
-        }
+        public override void OnInactive() { base.OnInactive(); }
 
-        public override void OnInitialize()
-        {
-            base.OnInitialize();
-        }
+        public override void OnInitialize() { base.OnInitialize(); }
 
         public override void OnFixedUpdate()
         {
@@ -234,6 +225,7 @@ namespace AntiGravRoom
             }
         }
 
+        // name = "nextGravitySetupEvent", 
         [KSPEvent(guiActive = true, guiActiveUnfocused = true, unfocusedRange = 20.0f , guiActiveEditor = false, guiName = "Current: Space. Next: Moho.")]
         public void nextGravitySetupEvent()
         {
@@ -250,6 +242,7 @@ namespace AntiGravRoom
             Debug.Log(selectedCelestial + " " + gravity);
         }
 
+        //name = "prevGravitySetupEvent", 
         [KSPEvent(guiActive = true, guiActiveUnfocused = true, unfocusedRange = 20.0f, guiActiveEditor = false, guiName = "Current: Space. Prev: Eeloo.")]
         public void prevGravitySetupEvent()
         {
